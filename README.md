@@ -2,5 +2,3 @@
 Homework for the course
 
 Project for https://stepik.org/
-
-Its test
